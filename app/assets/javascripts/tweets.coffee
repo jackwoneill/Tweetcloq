@@ -14,7 +14,6 @@ source.onmessage = (event) ->
 		$("#tweet-container-"+window.v).html("#{tweet.embed}")
 		setTimeout(reveal, 500)
 
-
 reveal = () ->
 	$("#tweet-container-"+window.v).css opacity: 100
 	window.v++
