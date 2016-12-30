@@ -27,5 +27,5 @@ module Clockwork
       end
     end
   end
-  every(10.seconds, 'exec')
+  every(3.seconds, 'exec')
 end
