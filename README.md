@@ -1,6 +1,6 @@
 <snippet>
   <content><
-# Tweetcloq
+# Tweetclock
 Created to explore Redis as a way for both temp storage and pub/sub. This is a clock that utilizes the Twitter API to display the time. Displayed in web interface. Not currently live anywhere, however feel free to initialize on your local machine. Requires Redis to use.
 
 #Now
